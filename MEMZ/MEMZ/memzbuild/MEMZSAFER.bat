@@ -1,0 +1,43 @@
+warning1.vbs
+note.txt
+
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+start spambox.vbs
+BluescreenSimulator.exe --win10
